@@ -6,7 +6,43 @@
     <description>Recent content in Master Yoga Lingo: A Comprehensive Website About Yoga Terms and Definitions on Yoga Terms</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Jan 2023 23:44:54 -0300</lastBuildDate><atom:link href="https://yogaterms.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 12 Oct 2023 21:24:16 -0300</lastBuildDate><atom:link href="https://yogaterms.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>From Novice to Yogi: The Ultimate Guide for Yoga Beginners</title>
+      <link>https://yogaterms.com/articles/the-ultimate-guide-for-yoga-beginners/</link>
+      <pubDate>Thu, 12 Oct 2023 21:24:16 -0300</pubDate>
+      
+      <guid>https://yogaterms.com/articles/the-ultimate-guide-for-yoga-beginners/</guid>
+      <description>Let&amp;rsquo;s dive into the world of yoga, a practice that has stood the test of time, offering a slice of calm in our otherwise hectic lives.</description>
+    </item>
+    
+    <item>
+      <title>What is Sari?</title>
+      <link>https://yogaterms.com/definitions/sari/</link>
+      <pubDate>Mon, 20 Feb 2023 09:55:00 -0300</pubDate>
+      
+      <guid>https://yogaterms.com/definitions/sari/</guid>
+      <description>Hey there! I&amp;rsquo;m so excited to talk to you about Sari, one of my favorite yoga practices!</description>
+    </item>
+    
+    <item>
+      <title>What is Samadhi?</title>
+      <link>https://yogaterms.com/definitions/samadhi/</link>
+      <pubDate>Sun, 19 Feb 2023 17:30:47 -0300</pubDate>
+      
+      <guid>https://yogaterms.com/definitions/samadhi/</guid>
+      <description>Alright, buckle up, yogi amigo, because we&amp;rsquo;re about to dive into the mystical world of Samadhi.</description>
+    </item>
+    
+    <item>
+      <title>What is Satguru?</title>
+      <link>https://yogaterms.com/definitions/satguru/</link>
+      <pubDate>Sun, 19 Feb 2023 17:20:22 -0300</pubDate>
+      
+      <guid>https://yogaterms.com/definitions/satguru/</guid>
+      <description>So, first off, when we talk about Satguru in yoga, we&amp;rsquo;re talking about a spiritual teacher or guide who helps you on your journey towards enlightenment or self-realization.</description>
+    </item>
+    
     <item>
       <title>What is Rasa?</title>
       <link>https://yogaterms.com/definitions/rasa/</link>
@@ -125,7 +161,7 @@
     </item>
     
     <item>
-      <title>What is a Mantra</title>
+      <title>What is a Mantra?</title>
       <link>https://yogaterms.com/definitions/mantra/</link>
       <pubDate>Fri, 13 Jan 2023 01:33:47 -0300</pubDate>
       
@@ -170,12 +206,61 @@
     </item>
     
     <item>
+      <title>About the YogaTerms Website</title>
+      <link>https://yogaterms.com/institutional/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yogaterms.com/institutional/about/</guid>
+      <description>Welcome to YogaTerms, your one-stop source for everything related to the vast world of yoga.</description>
+    </item>
+    
+    <item>
+      <title>Affiliate Disclosure for YogaTerms</title>
+      <link>https://yogaterms.com/institutional/affiliate-disclosure/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yogaterms.com/institutional/affiliate-disclosure/</guid>
+      <description>Last Updated: Oct. 21, 2023.
+1. Introduction At YogaTerms, we are committed to full transparency with our readers.</description>
+    </item>
+    
+    <item>
+      <title>Cookie Policy for YogaTerms</title>
+      <link>https://yogaterms.com/institutional/cookie-policy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yogaterms.com/institutional/cookie-policy/</guid>
+      <description>Last Updated: Oct. 22, 2023.
+1. Introduction At YogaTerms, we believe in transparency about the data we collect and how it&amp;rsquo;s used.</description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy for YogaTerms</title>
+      <link>https://yogaterms.com/institutional/privacy-policy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yogaterms.com/institutional/privacy-policy/</guid>
+      <description>Last Updated: Oct. 22, 2023.
+1. Introduction Thank you for choosing to be part of our community at YogaTerms.</description>
+    </item>
+    
+    <item>
       <title>Search</title>
       <link>https://yogaterms.com/search/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://yogaterms.com/search/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Terms of Use for YogaTerms</title>
+      <link>https://yogaterms.com/institutional/terms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yogaterms.com/institutional/terms/</guid>
+      <description>Last Updated: Oct. 22, 2023.
+Thank you for choosing to be a part of our community at YogaTerms.</description>
     </item>
     
   </channel>
